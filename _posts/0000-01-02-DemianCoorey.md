@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-your test
+Your mission, should you choose to accept it....
 Use the left arrow to go back!
